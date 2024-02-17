@@ -35,6 +35,7 @@ public class Main {
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
         }
+        System.out.println("Nueva versión 1.1");
     }
 }
 
